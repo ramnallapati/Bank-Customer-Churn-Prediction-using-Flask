@@ -1,6 +1,6 @@
-## Dynami
+## Bank Customer Churn Prediction
 
-[Live Link URL](https://rapido-ride-dynamic-price-prediction.onrender.com/)
+[Live Link URL](https://bank-customer-churn-prediction-using.onrender.com/)
 
 ---
 
