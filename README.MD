@@ -6,5 +6,5 @@
 
 ### Home Page Output
 <p align="center">
-    <img src="prediction_images/home_page.png" width="800">
+    <img src="images/home.png" width="800">
 </p>
