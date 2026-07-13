@@ -191,10 +191,17 @@ Include important plots such as:
 Example:
 
 ```markdown
-![EDA](images/eda.png)
+![Categorical Column Distribution](images/categorical_columns_distribution.png)
 ```
 
+```markdown
+![Numerical Column Distribution](images/numerical_columns_distribution.png)
+```
+
+```markdown
+![target Column Distribution](images/target_variable_distribution.png)
 ---
+
 
 # ⚙ Feature Engineering
 
@@ -209,40 +216,6 @@ Explain:
 ---
 
 # 🧠 Model Architecture
-
-Explain your model.
-
-Example:
-
-```
-Input
-
-↓
-
-Data Augmentation
-
-↓
-
-EfficientNetB0
-
-↓
-
-Global Average Pooling
-
-↓
-
-Dropout
-
-↓
-
-Dense
-
-↓
-
-Softmax
-```
-
-For ML:
 
 ```
 Input
@@ -262,53 +235,15 @@ Prediction
 
 ---
 
-# 📈 Training
-
-Example:
-
-- Epochs: 20
-- Batch Size: 32
-- Optimizer: Adam
-- Learning Rate: 0.001
-
----
-
 # 📊 Results
 
 | Metric | Score |
 |---------|------:|
-| Accuracy | 95% |
-| Precision | 94% |
-| Recall | 93% |
-| F1 Score | 94% |
+| Accuracy | 82% |
+| Precision | 63% |
+| Recall | 58% |
+| F1 Score | 60% |
 
----
-
-# 📷 Results
-
-## Accuracy Curve
-
-```markdown
-![Accuracy](images/accuracy.png)
-```
-
-## Loss Curve
-
-```markdown
-![Loss](images/loss.png)
-```
-
-## Confusion Matrix
-
-```markdown
-![Confusion Matrix](images/confusion_matrix.png)
-```
-
-## Sample Prediction
-
-```markdown
-![Prediction](images/prediction.png)
-```
 
 ---
 
@@ -350,11 +285,11 @@ This project is licensed under the MIT License.
 <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/ramnallapati">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<a href="https://www.linkedin.com/in/ramnallapati">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
 </a>
 </p>
